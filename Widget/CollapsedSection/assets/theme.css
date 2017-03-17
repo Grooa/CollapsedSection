@@ -1,0 +1,17 @@
+
+
+.hidden-section {
+	-webkit-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+.hidden-section-minified {
+	display: none;
+	height: 0;
+}
+
+.hidden-section-expanded {
+	display: block;
+	height: 300px;
+}
+
